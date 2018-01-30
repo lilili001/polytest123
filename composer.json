@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/polytest123",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MyehModules\\PolyTest123\\Providers\\PolyTest123ServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "MyehModules\\PolyTest123\\": ""
+        }
+    }
+}
