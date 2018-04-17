@@ -1,5 +1,6 @@
 {
     "name": "myeh-modules/polytest123",
+    "type": "asgard-module",
     "description": "",
     "authors": [
         {
